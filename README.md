@@ -1,6 +1,6 @@
 # Odoo Development Portfolio
 
-A focused portfolio of Odoo ERP customization, workflow automation, reporting, and integration work.
+A focused portfolio of Odoo ERP customization, workflow automation, reporting, security, and business-process improvements.
 
 ## Core Stack
 
@@ -10,28 +10,34 @@ A focused portfolio of Odoo ERP customization, workflow automation, reporting, a
 
 ## Selected Projects
 
-1. [B2B API Integration](projects/b2b-api-integration/README.md)
-2. [Sales, Inventory & Accounting Automation](projects/sales-inventory-accounting-automation/README.md)
-3. [Customer Statements & Multi-Currency Reporting](projects/financial-reporting/README.md)
-4. [Manufacturing Batch Scaling & WhatsApp Documents](projects/mrp-whatsapp/README.md)
+### Sales & Inventory
 
-## Independent Code Samples
+1. [Sales, Inventory & Accounting Automation](projects/sales-inventory-accounting-automation/README.md)
+2. [Serial Numbers on Quotations](projects/serial-quotation-workflow/README.md)
+3. [Multi-Pricelist & UoM Pricing](projects/multi-pricelist-uom-pricing/README.md)
+4. [Location-Level Negative Stock Control](projects/negative-stock-control/README.md)
 
-- [Generic B2B Connector](code_samples/generic_b2b_connector.py)
-- [Sales & Inventory Guard](code_samples/sale_inventory_guard.py)
-- [Currency Balance Report Extension](code_samples/currency_balance_report.py)
-- [MRP Batch Scaling](code_samples/mrp_batch_scaling.py)
-- [Code Samples Guide](code_samples/README.md)
+### Accounting & Reporting
+
+5. [Customer Statements & Multi-Currency Reporting](projects/financial-reporting/README.md)
+6. [Landed Cost & Purchase Currency Enhancements](projects/landed-cost-currency/README.md)
+7. [Merged Invoice Reporting](projects/merged-invoice-reporting/README.md)
+8. [Employee Sales Commission](projects/employee-sales-commission/README.md)
+
+### Manufacturing, Communication & Security
+
+9. [Manufacturing Batch Scaling & WhatsApp Documents](projects/mrp-whatsapp/README.md)
+10. [Role-Based Access Control](projects/role-based-access-control/README.md)
 
 ## Engineering Focus
 
-- Translating functional ERP requirements into maintainable Odoo modules
-- Building safe integrations with validation, logging, and controlled workflows
+- Translating functional ERP requirements into maintainable Odoo solutions
 - Automating repetitive operational steps without bypassing business controls
-- Producing clear PDF/Excel reports for business and accounting teams
+- Building clear PDF/Excel reports for operational and accounting teams
+- Applying validation and access rules at the correct workflow boundaries
 - Supporting branch-based delivery, build monitoring, logs, and deployment through Odoo.sh
 
-> Case studies and code samples are independently written for this portfolio. They do not expose client names, business data, credentials, production configuration, or proprietary source code.
+> These case studies describe implementation experience without exposing client names, business data, credentials, production configuration, or proprietary source code.
 
 ## Contact
 
