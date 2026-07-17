@@ -15,6 +15,14 @@ A focused portfolio of Odoo ERP customization, workflow automation, reporting, a
 3. [Customer Statements & Multi-Currency Reporting](projects/financial-reporting/README.md)
 4. [Manufacturing Batch Scaling & WhatsApp Documents](projects/mrp-whatsapp/README.md)
 
+## Independent Code Samples
+
+- [Generic B2B Connector](code_samples/generic_b2b_connector.py)
+- [Sales & Inventory Guard](code_samples/sale_inventory_guard.py)
+- [Currency Balance Report Extension](code_samples/currency_balance_report.py)
+- [MRP Batch Scaling](code_samples/mrp_batch_scaling.py)
+- [Code Samples Guide](code_samples/README.md)
+
 ## Engineering Focus
 
 - Translating functional ERP requirements into maintainable Odoo modules
@@ -23,7 +31,7 @@ A focused portfolio of Odoo ERP customization, workflow automation, reporting, a
 - Producing clear PDF/Excel reports for business and accounting teams
 - Supporting branch-based delivery, build monitoring, logs, and deployment through Odoo.sh
 
-> These case studies describe implementation experience without exposing client names, business data, credentials, or proprietary source code.
+> Case studies and code samples are independently written for this portfolio. They do not expose client names, business data, credentials, production configuration, or proprietary source code.
 
 ## Contact
 
