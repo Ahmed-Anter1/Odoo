@@ -38,6 +38,15 @@ A focused portfolio of Odoo ERP customization, workflow automation, reporting, s
 15. [Role-Based Access Control](projects/role-based-access-control/README.md)
 16. [Sensitive Data & Menu Security](projects/sensitive-data-and-menu-security/README.md)
 
+## Full Installable Addons
+
+- [Sale & Stock Guard](https://github.com/Ahmed-Anter1/odoo-sale-stock-guard)
+- [Customer Statement](https://github.com/Ahmed-Anter1/odoo-customer-statement)
+- [MRP Batch Scaling](https://github.com/Ahmed-Anter1/odoo-mrp-batch-scaling)
+- [Secure WhatsApp Document Sharing](https://github.com/Ahmed-Anter1/odoo-whatsapp-document-sharing)
+- [Serial Quotation Workflow](https://github.com/Ahmed-Anter1/odoo-serial-quotation-workflow)
+- [Automated Sales Returns](https://github.com/Ahmed-Anter1/odoo-automated-sales-returns)
+
 ## Engineering Focus
 
 - Translating functional ERP requirements into maintainable Odoo solutions
